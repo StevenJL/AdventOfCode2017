@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "wutev mang",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenJL/AdventOfCode2017.git"
+  },
+  "author": "Teemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenJL/AdventOfCode2017/issues"
+  },
+  "homepage": "https://github.com/StevenJL/AdventOfCode2017#readme"
+}
